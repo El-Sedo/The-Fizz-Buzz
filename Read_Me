@@ -1,0 +1,5 @@
+ This program prints numbers from 1 to 100 on a new line
+ For each multiple of 3, the program says "Fizz" instead
+ For each multiple of 5, the program says "Buzz" instead
+ For each multiple of 15, the program says "Fizz-Buzz"
+
